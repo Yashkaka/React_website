@@ -1,0 +1,89 @@
+[
+    {
+        "image": "./images/rohithnew.png",
+        "name":"Rohith Gangaraju",
+        "position":"CEO & FOUNDER",
+        "linkedln":"https://www.linkedin.com/in/rohithgangaraju/",
+        "mail":"mailto:rohith@vielabs.in"
+    },
+    {
+        "image": "./images/ruthvik.jpeg",
+        "name":"B S Ruthvik Mannepalli ",
+        "position":"CEO & FOUNDER",
+        "linkedln":"https://www.linkedin.com/in/mannepalli-bsruthvik-04b733196/",
+        "mail":"mailto:ruthvik@vielabs.in"
+    },
+    {
+        "image": "./images/IMG-20220703-WA0070 - sai rajesh payala.jpg",
+        "name":"Sai Rajesh Varma Payala",
+        "position":" CQO & CMO",
+        "linkedln":"https://www.linkedin.com/in/rajesh-varma-payala-4302ba1a0%2F/",
+        "mail":"mailto:rajesh@vielabs.in"
+    },{
+        "image": "./images/19BCN7015_BONDU MOHAN SRINIVASA SARMA - Mohan Srinivasa Sarma.jpeg",
+        "name":"Mohan Srinivasa Sarma Bondu",
+        "position":"CSO",
+        "linkedln":"https://www.linkedin.com/in/bondu-mohan-srinivasa-sarma-a95a44207/",
+        "mail":"mailto:mohan@vielabs.in"
+    },
+    
+    {
+        "image": "./images/sai vivek.jpeg",
+        "name":"Sai Vivek Rangaraju",
+        "position":"ASCO",
+        "linkedln":"https://www.linkedin.com/in/sai-vivek-rangaraju-9070a0b9/",
+        "mail":"mailto:saivivek899@gmail.com"
+    },{
+        "image": "./images/defaultnew.png",
+        "name":"Nivas",
+        "position":"SDE",
+        "linkedln":"https://www.linkedin.com/in/nivas-manduva-03b8905b/",
+        "mail":"mailto:manduva.nivas@gmail.com"
+    },{
+        "image": "./images/IMG_20210810_174114_186 - Likhith RS.jpg",
+        "name":"R S Likhith Sai",
+        "position":"Marketing Manager",
+        "linkedln":"https://www.linkedin.com/in/likhith-sai-a14a80184/",
+        "mail":"mailto:manduva.likhithsairoyal@gmail.com"
+    },{
+        "image": "./images/mera pic - Pavan Kalyan.jpg",
+        "name":"Pavan Kalyan Akula",
+        "position":"Marketing Executive",
+        "linkedln":"https://www.linkedin.com/in/nivas-manduva-03b8905b/",
+        "mail":"mailto:akulpavankalyan005@gmail.com"
+    },{
+        "image": "./images/B404D015-3448-432C-B4A2-5A3017EFAA76 - Bharath Sai.jpeg",
+        "name":"Inturi Bharath Sai",
+        "position":"Editor",
+        "linkedln":"https://www.linkedin.com/in/bharath-sai-36292024b/",
+        "mail":"mailto:bharath.21bce7099@vitapstudent.ac.in"
+    },{
+        "image": "./images/SOMESULA ADARSH1 - Adarsh Somesula.jpg",
+        "name":"Adarsh Somesula",
+        "position":"Accounting Supervisor",
+        "linkedln":"https://www.linkedin.com/in/adarsh-somesula-2bb17b18a/",
+        "mail":"mailto:adarsh.somesula2000@gmail.com"
+    },
+    {
+        "image": "./images/KoduriGokul.jpg",
+        "name":"Gokul Koduri",
+        "position":"Accountant",
+        "linkedln":"https://www.linkedin.com/in/koduri-gokul-0ab488196/",
+        "mail":"mailto:kodurigokul@gmail.com"
+    },
+    {
+        "image": "./images/B612_20210510_183257_770~2 - vishnupriya Bellamkonda.jpg",
+        "name":"Vishnu Priya Bellamkonda",
+        "position":"Tutor",
+        "linkedln":"https://www.linkedin.com/in/vishnubellamkonda/",
+        "mail":"mailto:vishnupriyabellamkonda2002@gmail.com"
+    },
+    {
+        "image": "./images/defaultnew.png",
+        "name":"Bharat Sai Gopishetti",
+        "position":"tutor",
+        "linkedln":"https://www.linkedin.com/company/wix-com/",
+        "mail":"mailto:gopishetti.bharath@gmail.com"
+    }
+   
+]

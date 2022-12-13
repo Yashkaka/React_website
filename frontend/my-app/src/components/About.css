@@ -1,0 +1,181 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css");
+/* @import url('https://fonts.googleapis.com/css2?family=Genos:wght@600&display=swap'); */
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@100&display=swap");
+body{
+    background-color: black;
+    /* color:white; */
+}
+
+.AboutUs{
+  background-color: black;
+}
+
+
+.team1{
+    text-align: center;
+    font-weight: 900;
+    font-size:3.5rem;
+    color: white;
+}
+
+.team2{
+    text-align:center;
+    font-size:2.7rem;
+    color:white;
+}
+
+.About_profile_position{
+  font-weight: normal;
+}
+
+
+.container1{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-items:center;
+    justify-content:center;
+    margin-top:90px;
+
+    
+}
+
+
+
+img{
+  border-radius: 10px;
+  margin: 25px 25px 10px 15px;
+  /* margin: 41px; */
+  width: 260px;
+  height: 221px;
+  text-align: center;
+}
+
+.about_social_links{
+  /* text-decoration: none;
+  color: white;
+  margin-right: 158px;
+  font-size: 20px; */
+
+  text-decoration: none;
+  color: white;
+  margin-right: -88px;
+  margin-left: 121px;
+  font-size: 20px;
+}
+
+.cards{
+  border-radius: 20px;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-items:center;
+  justify-content:left;
+  /* width:400px; */
+  /* width:330px;
+  height:500px; */
+  width: 288px;
+  height: 355px;
+  /* background-color:#b9b8b8; */
+  background-color: rgba(0, 0, 0, 0.975);
+  margin-right: 40px;
+  margin-bottom:30px;
+  /* border-style: solid ;
+  border-width: 2px;
+  border-color: white; */
+  background-color: rgb(140, 135, 135);
+
+    
+}
+
+.content{
+    /* width: 160px;
+    width:170px;
+    padding-right: 0;
+    word-wrap: break-word; */
+
+  }
+
+.content{
+    /* float:right; */
+}
+
+@media only screen and (max-width: 580px) {
+    img {
+        width: 81%;
+        height: 337px;
+        margin-left:10%;
+    }
+    .container{
+        flex-direction: column;
+        margin-left: 0px;
+    }
+
+    .cards{
+        margin-top:10px;
+flex-direction: column;
+        width:95%;
+        margin-left:10px;
+        height:fit-content;
+    }
+   .content{
+    text-align: center;
+    width: 100%;
+    word-wrap: break-word;
+    height: auto;
+    }
+    .about_icon{
+      text-align: center;
+
+      padding-bottom: 10px;
+      padding-top: -10px;
+
+    }
+
+    .about_social_links{
+      /* text-decoration: none;
+      color: white;
+      margin-right: 10px;
+      margin-left: 12px;
+      font-size: 20px; */
+      text-decoration: none;
+      color: white;
+      margin-right: 25px;
+      margin-left: 24px;
+      font-size: 20px;
+    }
+  }
+
+  
+
+.About_profile_name{
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+    text-align: center;
+
+  }
+
+  /* .about_social_links{
+    text-decoration: none;
+    color: white;
+    margin-right: 33px;
+    font-size: 20px;
+  } */
+  .about_icon{
+    color: rgb(0, 0, 0);
+    width: 2px;
+
+  }
+
+  .About_profile_position{
+    /* color: white; */
+    color:#f6f2f0;
+    text-align: center;
+
+  }
+
+
+  .team1,.team2,.About_profile_position,.about_social_links,.About_profile_name{
+
+    font-family: Helvetica, sans-serif,'Rubik', sans-serif;
+  }
